@@ -7,6 +7,7 @@ After carefully investigating the data available; fulfilment, orders and shipmen
 
 - Orders taking too long to ship: Given the shipment modes and reorder fulfilment times, it is highly unlikely that orders took more than 14 days to ship. Orders that took more than 14 days to ship were filtered.
 - Correction of Country Names: Some country's names had special characters and these were corrected to ensure correct names.
+- In the discount colum we replaced characters such as "-" with 0 , and update the format to %
 **Measures Created**
   
 _Sales_
