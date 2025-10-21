@@ -11,7 +11,7 @@ After carefully investigating the data available; fulfilment, orders and shipmen
 _Sales_
 
 Net Sales
-Profit from Sales
+Profit from Sales 
 Profit after Inventory Costs
 Profit Margin
 Number of Orders
