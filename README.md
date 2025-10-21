@@ -14,19 +14,18 @@ _Sales_
 - Profit from Sales 
 - Profit after Inventory Costs
 - Profit Margin
-Number of Orders
-Quantity Sold
-Number of Customers
+- Number of Orders
+- Quantity Sold
+- Number of Customers
 
 _Inventory_
-
-Units Available
-Inventory Cost
-Inventory Turnover Rate
-Overstock/Backorder
-Reorder Level
-Inventory in Progress
+- Units Available
+- Inventory Cost
+- Inventory Turnover Rate
+- Overstock/Backorder
+- Reorder Level
+- Inventory in Progress
 
 _Shipment_
-Average Delivery Time
-Late Delivery Rate
+- Average Delivery Time
+- Late Delivery Rate
