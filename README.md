@@ -8,12 +8,12 @@ After carefully investigating the data available; fulfilment, orders and shipmen
 - Orders taking too long to ship: Given the shipment modes and reorder fulfilment times, it is highly unlikely that orders took more than 14 days to ship. Orders that took more than 14 days to ship were filtered.
 - Correction of Country Names: Some country's names had special characters and these were corrected to ensure correct names.
 **Measures Created**
+  
 _Sales_
-
-Net Sales
-Profit from Sales 
-Profit after Inventory Costs
-Profit Margin
+- Net Sales
+- Profit from Sales 
+- Profit after Inventory Costs
+- Profit Margin
 Number of Orders
 Quantity Sold
 Number of Customers
